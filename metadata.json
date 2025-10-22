@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Calorie Counter",
+  "description": "An intelligent web application that uses Gemini to analyze photos of food and estimate their calorie content, displaying the results as an overlay on the image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
